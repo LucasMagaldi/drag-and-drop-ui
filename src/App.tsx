@@ -3,7 +3,7 @@ import React from 'react'
 function App() {
   return (
     <React.Fragment>
-      app
+      <h1 className='text-3xl text-red-500'>App</h1>
     </React.Fragment>
   )
 }
